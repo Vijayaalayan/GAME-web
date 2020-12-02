@@ -1,2 +1,0 @@
-# GAME-web
-jQuery Learn
